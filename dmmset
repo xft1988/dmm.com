@@ -13,14 +13,17 @@
 				"**.doubleclick.net",
 				"**.web.shiropro.jp",
 				"**.dmm.co.jp",
-				"**.cxense.com"
+				"**.cxense.com",
+				"**.xaid.jp",
+				"**.fout.jp"
 			],
 			"cmds": [
 				{
 					"hosts": [
 						"dmm.com","amazonaws.com","aws.amazonaws.com","s3-ap-northeast-1.amazonaws.com",
 						"osapi.dmm.com","p.dmm.com","pcis.dmm.com","log-netgame.dmm.com",
-						"googleads.g.doubleclick.net","web.shiropro.jp","cdn.cxense.com"
+						"googleads.g.doubleclick.net","web.shiropro.jp","cdn.cxense.com","j.xaid.jp",
+						"js.fout.jp"
 					],
 					"then": "PROXY JP"
 				}
