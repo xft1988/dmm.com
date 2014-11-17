@@ -2,7 +2,7 @@
 	"name": "Access dmm.co,",
 	"author": "xft",
 	"description": "A package I created to access US sites I like",
-	"site": "http://github.com/myname/mypage",
+	"site": "https://github.com/xft1988/dmm.com/blob/master/dmmset",
 	"unblocker_rules": {
 		"dmm_com": {
 			"description": "dmm.com rule",
