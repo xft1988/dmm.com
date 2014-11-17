@@ -9,7 +9,10 @@
 			"link": "http://www.dmm.com",
 			"root_url": [
 				"**.dmm.com",
-				"**.amazonaws.com"
+				"**.amazonaws.com",
+				"**.doubleclick.net",
+				"**.web.shiropro.jp",
+				"**.dmm.co.jp"
 			],
 			"cmds": [
 				{
