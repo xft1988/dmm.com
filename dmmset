@@ -8,14 +8,14 @@
 			"description": "dmm.com rule",
 			"link": "http://www.dmm.com",
 			"root_url": [
-				"**//**.dmm.com**",
-				"**//**.amazonaws.com**"
+				"**.dmm.com",
+				"**.amazonaws.com"
 			],
 			"cmds": [
 				{
 					"hosts": [
 						"dmm.com","amazonaws.com","aws.amazonaws.com","s3-ap-northeast-1.amazonaws.com",
-						"ospi.dmm.com"
+						"osapi.dmm.com"
 					],
 					"then": "PROXY JP"
 				}
