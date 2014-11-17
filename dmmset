@@ -8,12 +8,13 @@
 			"description": "dmm.com rule",
 			"link": "http://www.dmm.com",
 			"root_url": [
-				"**//**.dmm.com**"
+				"**//**.dmm.com**",
+				"**//**.amazonaws.com**"
 			],
 			"cmds": [
 				{
 					"hosts": [
-						"dmm.com"'
+						"dmm.com","amazonaws.com"
 					],
 					"then": "PROXY JA"
 				}
