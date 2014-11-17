@@ -14,7 +14,8 @@
 			"cmds": [
 				{
 					"hosts": [
-						"**.dmm.com**","**.amazonaws.com**"
+						"dmm.com","amazonaws.com","aws.amazonaws.com","s3-ap-northeast-1.amazonaws.com",
+						"ospi.dmm.com"
 					],
 					"then": "PROXY JP"
 				}
