@@ -16,7 +16,7 @@
 					"hosts": [
 						"dmm.com","amazonaws.com"
 					],
-					"then": "PROXY JA"
+					"then": "PROXY JP"
 				}
 			]
 		}
