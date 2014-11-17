@@ -1,0 +1,23 @@
+{
+	"name": "Access dmm.co,",
+	"author": "xft",
+	"description": "A package I created to access US sites I like",
+	"site": "http://github.com/myname/mypage",
+	"unblocker_rules": {
+		"dmm_com": {
+			"description": "dmm.com rule",
+			"link": "http://www.dmm.com",
+			"root_url": [
+				"**//**.dmm.com**"
+			],
+			"cmds": [
+				{
+					"hosts": [
+						"dmm.com"',
+					],
+					"then": "PROXY JA"
+				}
+			]
+		}
+	}
+}
