@@ -15,7 +15,8 @@
 				{
 					"hosts": [
 						"dmm.com","amazonaws.com","aws.amazonaws.com","s3-ap-northeast-1.amazonaws.com",
-						"osapi.dmm.com","p.dmm.com"
+						"osapi.dmm.com","p.dmm.com","pcis.dmm.com","log-netgame.dmm.com",
+						"googleads.g.doubleclick.net","web.shiropro.jp"
 					],
 					"then": "PROXY JP"
 				}
