@@ -23,7 +23,7 @@
 			"cmds": [
 				{
 					"hosts": [
-						"dmm.com","amazonaws.com",
+						"dmm.com",
 						"osapi.dmm.com","p.dmm.com","pcis.dmm.com","log-netgame.dmm.com",
 						"googleads.g.doubleclick.net","web.shiropro.jp","cdn.cxense.com","j.xaid.jp",
 						"js.fout.jp","stats.g.doubleclick.net","my.dmm.com","google-anaytics.com"
