@@ -4,24 +4,34 @@
 	"description": "dmm,collcetion",
 	"site": "https://github.com/xft1988/dmm.com/blob/master/dmmset",
 	"unblocker_rules": {
-		"dmm_com": {
-			"description": "dmm.com rule",
-			"link": "http://www.dmm.com",
-			"root_url": [
-				"**.dmm.com"
-			],
-			"cmds": [
-				{
-					"hosts": [
-						"dmm.com","106.186.127.174","106.187.55.8","106.185.32.199","203.104.209.7",
-						"203.104.209.39","s3-ap-northeast-1.amazonaws.com","aws.amazon.com",
-						"osapi.dmm.com","p.dmm.com","pcis.dmm.com","log-netgame.dmm.com",
-						"googleads.g.doubleclick.net","web.shiropro.jp","cdn.cxense.com","j.xaid.jp",
-						"js.fout.jp","stats.g.doubleclick.net","my.dmm.com","google-anaytics.com"
-					],
-					"then": "PROXY JP"
-				}
-			]
-		}
-	}
+				"dmm_com": {
+					"description": "dmm.com rule",
+					"link": "http://www.dmm.com",
+					"root_url": [
+						"**.dmm.com",
+						 "**.doubleclick.net",
+						 "**.web.shiropro.jp",
+							 "**.dmm.co.jp",
+ 						"**.cxense.com",
+						 "**.xaid.jp",
+						 "**.fout.jp",
+						 "**.google-anaytics.com",
+						 "**.googleads.g.doubleclick.net",
+						 "**.web.shiropro.jp",
+						 "**.stats.g.doubleclick.net"
+						],
+					"cmds": [
+							{
+							"hosts": [
+								"dmm.com","106.186.127.174","106.187.55.8","106.185.32.199","203.104.209.7",
+								"203.104.209.39","s3-ap-northeast-1.amazonaws.com*";"*.aws.amazon.com*";
+								"osapi.dmm.com","p.dmm.com","pcis.dmm.com","log-netgame.dmm.com",
+								"googleads.g.doubleclick.net","web.shiropro.jp","cdn.cxense.com","j.xaid.jp",
+								"js.fout.jp","stats.g.doubleclick.net","my.dmm.com","google-anaytics.com"
+								],
+							"then": "PROXY JP"
+							}
+						]
+					}
+			}
 }
