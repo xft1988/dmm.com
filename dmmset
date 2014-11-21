@@ -9,16 +9,6 @@
 			"link": "http://www.dmm.com",
 			"root_url": [
 				"**.dmm.com",
-//				"**.doubleclick.net",
-//				"**.web.shiropro.jp",
-//				"**.dmm.co.jp",
-//				"**.cxense.com",
-//				"**.xaid.jp",
-//				"**.fout.jp",
-//				"**.google-anaytics.com",
-//				"**.googleads.g.doubleclick.net",
-//				"**.web.shiropro.jp",
-//				"**.stats.g.doubleclick.net"
 			],
 			"cmds": [
 				{
