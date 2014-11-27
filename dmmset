@@ -8,7 +8,7 @@
 					"description": "dmm.com rule",
 					"link": "http://www.dmm.com",
 					"root_url": [
-						"www.dmm.com",
+						"*.dmm.com",
 						 "**.doubleclick.net",
 						 "**.web.shiropro.jp",
 							 "**.dmm.co.jp",
@@ -27,7 +27,8 @@
 								"203.104.209.39","106.186.127.174","www.dmm.com",
 								"osapi.dmm.com","p.dmm.com","pcis.dmm.com","log-netgame.dmm.com",
 								"googleads.g.doubleclick.net","web.shiropro.jp","cdn.cxense.com","j.xaid.jp",
-								"js.fout.jp","stats.g.doubleclick.net","my.dmm.com","google-anaytics.com"
+								"js.fout.jp","stats.g.doubleclick.net","my.dmm.com","google-anaytics.com",\
+								"fx.dmm.com","help.dmm.com ","nikukai.dmm.com"
 								],
 							"then": "PROXY JP"
 							}
