@@ -24,7 +24,7 @@
 							{
 							"hosts": [
 								"dmm.com","106.186.127.174","106.187.55.8","106.185.32.199","203.104.209.7",
-								"203.104.209.39","106.186.127.174"
+								"203.104.209.39","106.186.127.174","www.dmm.com",
 								"osapi.dmm.com","p.dmm.com","pcis.dmm.com","log-netgame.dmm.com",
 								"googleads.g.doubleclick.net","web.shiropro.jp","cdn.cxense.com","j.xaid.jp",
 								"js.fout.jp","stats.g.doubleclick.net","my.dmm.com","google-anaytics.com"
